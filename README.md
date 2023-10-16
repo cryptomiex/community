@@ -1,4 +1,4 @@
-![GitHub-cover]()
+![](https://raw.githubusercontent.com/cryptomiex/community/main/img/header.png)
 # About CRYPTOMI
 
 CRYPTOMI.IO is a DeFi cryptocurrency exchange. We provide our clients with a very wide range of financial tools for both - traditional and crypto assets. 
